@@ -10,8 +10,7 @@
 
 <h3 align="left">연락처 (Connect with me)</h3>
 <p align="left">
-<a href="mailto:hhch98@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+hhch98@gmail.com
 </a>
 </p>
 
