@@ -5,7 +5,7 @@
 
 🔭 현재는 팀 소중한 기억을 통해 인지 건강 증진을 돕는 AI 서비스 <strong>'기억의 정원'</strong>을 개발하고 있습니다.<br>
 
-💡 각 서비스의 목적에 맞는 최적의 기술을 선택하고, 견고한 데이터 파이프라인과 자동화된 아키텍처를 구축하고자 합니다..
+💡 각 서비스의 목적에 맞는 최적의 기술을 선택하고, 견고한 데이터 파이프라인과 자동화된 아키텍처를 구축하고자 했습니다.
 </p>
 
 <h3 align="left">연락처 (Connect with me)</h3>
@@ -20,8 +20,8 @@ hhch98@gmail.com
 <summary><b>Languages & Backend</b></summary>
 <div markdown="1" style="padding-left: 20px;">
 <ul>
-<li><b>Python:</b> FastAPI를 활용하여 MSA 환경의 백엔드 서비스를 표준화하고, 데이터 분석 및 AI 모델 서빙 파이프라인을 구축합니다.</li>
-<li><b>Node.js:</b> Express 프레임워크와 Socket.IO를 사용하여 실시간 통신이 필요한 서비스를 개발합니다.</li>
+<li><b>Python:</b> FastAPI를 활용하여 MSA 환경의 백엔드 서비스를 표준화하고, 데이터 분석 및 AI 모델 서빙 파이프라인을 구축했습니다.</li>
+<li><b>Node.js:</b> Express 프레임워크와 Socket.IO를 사용하여 실시간 통신이 필요한 서비스를 개발했습니다.</li>
 <li><b>Rust:</b> Tokio 런타임을 기반으로 높은 동시성 처리가 요구되는 실시간 데이터 분석 웹소켓 서버를 개발한 경험이 있습니다.</li>
 </ul>
 </div>
@@ -31,8 +31,8 @@ hhch98@gmail.com
 <summary><b>Database & Message Queue</b></summary>
 <div markdown="1" style="padding-left: 20px;">
 <ul>
-<li><b>PostgreSQL & MySQL:</b> SQLAlchemy(ORM)와 함께 사용하여 RDBMS를 설계하고 운영합니다. (Neon DB 경험 포함)</li>
-<li><b>Apache Kafka:</b> MSA 환경에서 서비스 간 비동기 통신을 구현하여 시스템 결합도를 낮추고 데이터 파이프라인을 구축합니다.</li>
+<li><b>PostgreSQL & MySQL:</b> SQLAlchemy(ORM)와 함께 사용하여 RDBMS를 설계하고 운영했습니다. (Neon DB 경험 포함)</li>
+<li><b>Apache Kafka:</b> MSA 환경에서 서비스 간 비동기 통신을 구현하여 시스템 결합도를 낮추고 데이터 파이프라인을 구축했습니다.</li>
 </ul>
 </div>
 </details>
@@ -41,8 +41,8 @@ hhch98@gmail.com
 <summary><b>AI / LLM</b></summary>
 <div markdown="1" style="padding-left: 20px;">
 <ul>
-<li><b>OpenAI API:</b> GPT(질문/설명 생성), DALL-E(이미콘 생성), Whisper(STT) 등 다양한 모델을 활용하여 서비스의 핵심 AI 기능을 구현합니다.</li>
-<li><b>Dify:</b> LLM Ops 플랫폼인 Dify를 활용하여 RAG(검색 증강 생성) 파이프라인을 구축하고, 지식 베이스와 워크플로우를 통해 고도로 개인화된 AI 경험을 제공합니다.</li>
+<li><b>OpenAI API:</b> GPT(질문/설명 생성), DALL-E(이미콘 생성), Whisper(STT) 등 다양한 모델을 활용하여 서비스의 핵심 AI 기능을 구현했습니다.</li>
+<li><b>Dify:</b> LLM Ops 플랫폼인 Dify를 활용하여 RAG(검색 증강 생성) 파이프라인을 구축하고, 지식 베이스와 워크플로우를 통해 고도로 개인화된 AI 경험을 제공했습니다.</li>
 </ul>
 </div>
 </details>
@@ -51,10 +51,10 @@ hhch98@gmail.com
 <summary><b>DevOps & Cloud</b></summary>
 <div markdown="1" style="padding-left: 20px;">
 <ul>
-<li><b>Containerization:</b> Docker를 사용하여 모든 서비스를 컨테이너화하고, Docker Compose를 통해 통합 로컬 개발 환경을 구축합니다.</li>
+<li><b>Containerization:</b> Docker를 사용하여 모든 서비스를 컨테이너화하고, Docker Compose를 통해 통합 로컬 개발 환경을 구축했습니다.</li>
 <li><b>Orchestration:</b> Kubernetes(k8s)를 사용하여 컨테이너화된 애플리케이션을 배포하고 운영한 경험이 있습니다.</li>
-<li><b>Cloud:</b> AWS의 EC2, S3, ALB, RDS, ElastiCache, SES, SNS 등 다양한 서비스를 활용하여 인프라를 설계하고 운영합니다.</li>
-<li><b>CI/CD:</b> GitHub Actions를 사용하여 테스트, 빌드, 배포 자동화 파이프라인을 구축합니다.</li>
+<li><b>Cloud:</b> AWS의 EC2, S3, ALB, RDS, ElastiCache, SES, SNS 등 다양한 서비스를 활용하여 인프라를 설계하고 운영했습니다.</li>
+<li><b>CI/CD:</b> GitHub Actions, AWS Code Build, Code Pipeline 등을 사용하여 테스트, 빌드, 배포 자동화 파이프라인을 구축했습니다.</li>
 </ul>
 </div>
 </details>
@@ -73,7 +73,7 @@ hhch98@gmail.com
 <ul>
 <li>모든 서비스를 <strong>Python(FastAPI)</strong> 기반으로 표준화하고, <strong>Docker Compose</strong>를 통해 통합 개발 환경을 구축했습니다.</li>
 <li>서비스 간의 비동기 통신을 위해 <strong>Apache Kafka</strong>를 메시지 브로커로 도입하여 시스템의 결합도를 낮추고 확장성을 확보했습니다.</li>
-<li><strong>PostgreSQL(Neon DB)</strong>과 <strong>SQLAlchemy(ORM)</strong>를 사용하여 데이터베이스를 관리합니다.</li>
+<li><strong>PostgreSQL(Neon DB)</strong>과 <strong>SQLAlchemy(ORM)</strong>를 사용하여 데이터베이스를 관리했습니다.</li>
 </ul>
 </li>
 <li>
@@ -88,7 +88,7 @@ hhch98@gmail.com
 <strong>클라우드 및 인프라:</strong>
 <ul>
 <li><strong>AWS S3</strong>를 이미지 및 음성 파일의 저장소로 활용하고, <strong>AWS SES/SNS</strong>를 통해 보호자에게 주간 보고서 및 알림을 발송하는 기능을 구현했습니다.</li>
-<li>중앙화된 <code>operations</code> 서비스를 통해 전체 MSA 환경의 Docker Compose 설정과 배포 스크립트를 관리합니다.</li>
+<li>중앙화된 <code>operations</code> 서비스를 통해 전체 MSA 환경의 Docker Compose 설정과 배포 스크립트를 관리했습니다.</li>
 </ul>
 </li>
 </ul>
