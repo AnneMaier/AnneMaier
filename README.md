@@ -1,4 +1,4 @@
-<h1 align="left">안녕하세요, Anne Maier입니다.</h1>
+<h1 align="left">Anne Maier입니다.</h1>
 <h3 align="left">MSA 환경에서 확장 가능한 백엔드 시스템을 설계하는 개발자입니다.</h3>
 
 <p align="left">
@@ -65,7 +65,7 @@
 <!-- 현재 프로젝트: 기억의 정원 -->
 
 <details open>
-<summary><b>🌳 기억의 정원 (Garden of Memories) - AI 기반 인지 건강 증진 서비스 (진행중)</b></summary>
+<summary><b src="https://github.com/orgs/kibwa-fullstack-web-team1/repositories">🌳 기억의 정원 (Garden of Memories) - AI 기반 인지 건강 증진 서비스 (진행중)</b></summary>
 <div markdown="1" style="padding-left: 20px;">
 <p>사용자의 소중한 기억을 디지털 정원으로 시각화하고, RAG(검색 증강 생성) 파이프라인을 통해 개인화된 AI 경험을 제공하는 MSA 기반 서비스입니다.</p>
 <ul>
