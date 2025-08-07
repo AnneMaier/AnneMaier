@@ -59,7 +59,7 @@ hhch98@gmail.com
 </div>
 </details>
 
-<h3 align="left">프로젝트 경험 (Project Experience)</h3>
+<h3 align="left">최근 프로젝트 (Recent Project)</h3>
 
 <!-- 현재 프로젝트: 기억의 정원 -->
 
