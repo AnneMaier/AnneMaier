@@ -1,16 +1,10 @@
-<div align="center">
-
----
-
-<details id="-korean-profile" open>
-  <summary><b>🇰🇷 한국어 프로필 보기 (Click to expand)</b></summary>
-  <div markdown="1">
-    
 <h1 align="left">안녕하세요, Anne Maier입니다.</h1>
-<h3 align="left">백엔드 개발 & 클라우드 아키텍팅을 공부중인 신입 개발자입니다.</h3>
+<h3 align="left">열정 넘치는 백엔드 개발자이자 솔루션즈 아키텍트입니다.</h3>
 
-- 🔭 현재 팀 리더로서 ['garden-of-memories'](https://github.com/kibwa-fullstack-web-team1) 프로젝트를 진행하고 있습니다.
-  
+<p align="left">
+- 🔭 현재 팀 리더로서 ['garden-of-memories'](https://github.com/kibwa-fullstack-web-team1) 프로젝트를 진행하고 있습니다.<br>
+- 💡 실제 세상의 문제를 해결하는 확장성 있고 신뢰도 높은 시스템을 구축하는 것을 목표로 합니다.
+</p>
 
 <h3 align="left">연락처:</h3>
 <p align="left">
@@ -83,97 +77,5 @@
         </ul>
       </li>
     </ul>
-  </div>
-</details>
-    
-  </div>
-</details>
-
-<br>
-
-<details id="-english-profile">
-  <summary><b>🇬🇧 English Profile (Click to expand)</b></summary>
-  <div markdown="1">
-
-<h1 align="left">Hi, everyone. I'm Anne Maier.</h1>
-<h3 align="left">A passionate backend developer and solutions architect.</h3>
-
-- 🔭 I’m currently working on ['garden-of-memories'](https://github.com/kibwa-fullstack-web-team1) as a team leader.
-- 💡 My goal is to build scalable and reliable systems that solve real-world problems.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:hhch98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<h3 align="left">Skills & Experience</h3>
-
-<details>
-  <summary><b>🚀 Development</b></summary>
-  <div markdown="1">
-    <ul>
-      <li>
-        <strong>Backend (Python, Node.js)</strong>
-        <ul>
-          <li>Experienced in developing backend APIs and processing data using Python and Node.js (Express).</li>
-          <li>Familiar with asynchronous communication (AJAX, fetch) and handling JSON-formatted data.</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Web Frameworks (Django, FastAPI)</strong>
-        <ul>
-          <li>Project experience using the Django framework's ORM and templates.</li>
-          <li>Capable of improving asynchronous API performance and managing specifications with FastAPI.</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Databases (MySQL, Oracle)</strong>
-        <ul>
-          <li>Able to design and implement RDBMS tailored to system requirements using MySQL and Oracle.</li>
-          <li>Familiar with ensuring data integrity through data modeling, FK constraints, and transactional queries.</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Frontend (HTML/CSS)</strong>
-        <ul>
-          <li>Can design template-based web page structures and manage reusable layouts with HTML/CSS.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary><b>🛠️ Operations</b></summary>
-  <div markdown="1">
-    <ul>
-      <li>
-        <strong>Containerization (Docker, Kubernetes)</strong>
-        <ul>
-          <li>Experience creating container images for application environments with Docker and managing them via Docker Compose.</li>
-          <li>Understand the fundamentals of Kubernetes-based container orchestration, with hands-on experience building a CI/CD pipeline using ArgoCD.</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Cloud (AWS) & IaC (Terraform)</strong>
-        <ul>
-          <li>Experience building and operating high-availability 3-Tier architectures using major AWS services (EC2, Lambda, VPC, etc.).</li>
-          <li>Can implement deployment automation by building CI/CD pipelines with CodePipeline and CodeBuild.</li>
-          <li>Experience managing AWS infrastructure as code (IaC) with Terraform and securely managing state files via S3.</li>
-        </ul>
-      </li>
-      <li>
-        <strong>System & Virtualization</strong>
-        <ul>
-          <li>Familiar with Linux environment setup and system management, including task automation via shell scripts and configuring major software like Nginx.</li>
-          <li>Knowledge of building 2-Tier virtualization architectures with ESXi & OpenStack and understanding of Private Network environments.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</details>
-
   </div>
 </details>
