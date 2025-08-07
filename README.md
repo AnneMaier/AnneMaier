@@ -1,11 +1,4 @@
 <div align="center">
-  <h3>프로필 언어 선택 (Select Profile Language)</h3>
-  <p>
-    <a href="#-korean-profile">🇰🇷 한국어 (Korean)</a>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-english-profile">🇬🇧 English (영어)</a>
-  </p>
-</div>
 
 ---
 
@@ -14,10 +7,10 @@
   <div markdown="1">
     
 <h1 align="left">안녕하세요, Anne Maier입니다.</h1>
-<h3 align="left">열정 넘치는 백엔드 개발자이자 솔루션즈 아키텍트입니다.</h3>
+<h3 align="left">백엔드 개발 & 클라우드 아키텍팅을 공부중인 신입 개발자입니다.</h3>
 
 - 🔭 현재 팀 리더로서 ['garden-of-memories'](https://github.com/kibwa-fullstack-web-team1) 프로젝트를 진행하고 있습니다.
-- 💡 실제 세상의 문제를 해결하는 확장성 있고 신뢰도 높은 시스템을 구축하는 것을 목표로 합니다.
+  
 
 <h3 align="left">연락처:</h3>
 <p align="left">
