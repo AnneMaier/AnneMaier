@@ -64,7 +64,7 @@ hhch98@gmail.com
 <!-- 현재 프로젝트: 기억의 정원 -->
 
 <details open>
-<summary><b src="https://github.com/orgs/kibwa-fullstack-web-team1/repositories">🌳 기억의 정원 (Garden of Memories) - AI 기반 인지 건강 증진 서비스 (진행중)</b></summary>
+<summary><a href="https://github.com/orgs/kibwa-fullstack-web-team1/repositories">🌳 기억의 정원 (Garden of Memories) - AI 기반 인지 건강 증진 서비스 (진행중)</a></summary>
 <div markdown="1" style="padding-left: 20px;">
 <p>사용자의 소중한 기억을 디지털 정원으로 시각화하고, RAG(검색 증강 생성) 파이프라인을 통해 개인화된 AI 경험을 제공하는 MSA 기반 서비스입니다.</p>
 <ul>
@@ -100,7 +100,7 @@ hhch98@gmail.com
 <details>
 <summary><b>👁️ Attention: 웹캠 기반 실시간 집중도 분석 서비스</b></summary>
 <div markdown="1" style="padding-left: 20px;">
-<p>실시간으로 사용자의 집중도를 측정하고, 분석 리포트와 AI 코칭 피드백을 제공했던 프로젝트입니다. 전체 코드는 <a href="https://www.google.com/search?q=https://github.com/kibwa-fullstack-web-team1/attention-ops">하나의 모노레포</a>에서 관리되었습니다.</p>
+<p>실시간으로 사용자의 집중도를 측정하고, 분석 리포트와 AI 코칭 피드백을 제공했던 프로젝트입니다. 전체 코드는 <a href="https://github.com/kibwa-fullstack-web-team1/attention-ops">하나의 모노레포</a>에서 관리되었습니다.</p>
 <ul>
 <li><strong>Polyglot Backend:</strong> <strong>Rust</strong>(실시간 데이터 처리), <strong>Python/FastAPI</strong>(보고서 API), <strong>Node.js/Express</strong>(클라이언트 서비스) 등 각 목적에 맞는 언어와 프레임워크를 조합하여 MSA를 구축했습니다.</li>
 <li><strong>AI & Data Handling:</strong> <strong>EXAONE</strong> 모델을 파인튜닝하여 개인화된 코칭 피드백을 제공하고, Python 스크립트로 학습용 데이터셋을 직접 생성 및 관리했습니다.</li>
