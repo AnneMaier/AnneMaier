@@ -93,7 +93,7 @@ hhch98@gmail.com
 <details>
 <summary><b>👁️ Attention: Real-time Concentration Analysis Service via Webcam</b></summary>
 <div markdown="1" style="padding-left: 20px;">
-<p>A project that measured user concentration in real-time and provided analysis reports and AI coaching feedback. The entire codebase was managed in a <a href="https://www.google.com/search?q=https://github.com/kibwa-fullstack-web-team1/attention-ops">single monorepo</a>.</p>
+<p>A project that measured user concentration in real-time and provided analysis reports and AI coaching feedback. The entire codebase was managed in a <a href="https://github.com/AnneMaier/attention-ops">single monorepo</a>.</p>
 <ul>
 <li><strong>Polyglot Backend:</strong> Built an MSA by combining languages and frameworks suited for each purpose, such as <strong>Rust</strong> (for real-time data processing), <strong>Python/FastAPI</strong> (for the report API), and <strong>Node.js/Express</strong> (for client services).</li>
 <li><strong>AI & Data Handling:</strong> Provided personalized coaching feedback by fine-tuning the <strong>EXAONE</strong> model and directly created and managed datasets for training with Python scripts.</li>
