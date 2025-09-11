@@ -57,7 +57,7 @@ hhch98@gmail.com
 <!-- Current Project: Garden of Memories -->
 
 <details open>
-<summary><a href="https://www.google.com/search?q=https://github.com/orgs/kibwa-fullstack-web-team1/repositories">🌳 Garden of Memories - AI-Powered Cognitive Health Enhancement Service (In Progress)</a></summary>
+<summary><a href="https://www.google.com/search?q=https://github.com/orgs/kibwa-fullstack-web-team1/repositories">🌳 Garden of Memories - AI-Powered Cognitive Health Enhancement Service</a></summary>
 <div markdown="1" style="padding-left: 20px;">
 <p>An MSA-based service that visualizes a user's precious memories into a digital garden and provides a personalized AI experience through a Retrieval-Augmented Generation (RAG) pipeline.</p>
 <ul>
