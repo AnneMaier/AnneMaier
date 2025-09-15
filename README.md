@@ -1,103 +1,56 @@
-<h1 align="left">Hi, I'm Hyuichan Hyun (Anne Maier)</h1>
-<h3 align="left">An engineer proficient in AWS infrastructure and container technologies, equipped with strong backend capabilities.</h3>
+👋 안녕하세요, AnneMaier입니다.
+인프라 지식(AWS)을 기반으로 웹 개발(Full-Stack)을 학습하며, 개발과 운영의 간극을 메우는 엔지니어로 성장하고 있습니다. 복잡한 비즈니스 요구사항을 안정적인 시스템 아키텍처로 구현하고, 그 과정의 비효율을 자동화와 프로세스 개선으로 해결하는 것을 즐깁니다.
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-hhch98@gmail.com
-</a>
-</p>
+📧 Email: hhch98@gmail.com
 
-<h3 align="left">Tech Stack</h3>
+🛠️ 기술 스택 (Core Tech Stack)
+Category
 
-<details>
-<summary><b>Languages & Backend</b></summary>
-<div markdown="1" style="padding-left: 20px;">
-<ul>
-<li><b>Python:</b> Standardized backend services in an MSA environment using FastAPI and built data analysis and AI model serving pipelines.</li>
-<li><b>Node.js:</b> Developed services requiring real-time communication using the Express framework and Socket.IO.</li>
-<li><b>Rust:</b> Have experience developing a real-time data analysis WebSocket server that required high concurrency processing, based on the Tokio runtime.</li>
-</ul>
-</div>
-</details>
+Skills
 
-<details>
-<summary><b>Database & Message Queue</b></summary>
-<div markdown="1" style="padding-left: 20px;">
-<ul>
-<li><b>PostgreSQL & MySQL:</b> Designed and operated RDBMS using SQLAlchemy (ORM). (Includes experience with Neon DB)</li>
-<li><b>Apache Kafka:</b> Implemented asynchronous communication between services in an MSA environment to reduce system coupling and build data pipelines.</li>
-</ul>
-</div>
-</details>
+Languages & Frameworks
 
-<details>
-<summary><b>AI / LLM</b></summary>
-<div markdown="1" style="padding-left: 20px;">
-<ul>
-<li><b>OpenAI API:</b> Implemented core AI features of services by utilizing various models such as GPT (for generating questions/descriptions), DALL-E (for generating "emoticons"), and Whisper (STT).</li>
-<li><b>Dify:</b> Built a Retrieval-Augmented Generation (RAG) pipeline using the LLM Ops platform, Dify, to provide a highly personalized AI experience through knowledge bases and workflows.</li>
-</ul>
-</div>
-</details>
+Python, FastAPI, Rust, Node.js
 
-<details>
-<summary><b>DevOps & Cloud</b></summary>
-<div markdown="1" style="padding-left: 20px;">
-<ul>
-<li><b>Containerization:</b> Containerized all services using Docker and built an integrated local development environment with Docker Compose.</li>
-<li><b>Orchestration:</b> Have experience deploying and operating containerized applications using Kubernetes (k8s).</li>
-<li><b>Cloud:</b> Designed and operated infrastructure utilizing various AWS services such as EC2, S3, ALB, RDS, ElastiCache, SES, and SNS.</li>
-<li><b>CI/CD:</b> Built automated testing, building, and deployment pipelines using GitHub Actions, AWS CodeBuild, and CodePipeline.</li>
-</ul>
-</div>
-</details>
+Data & Messaging
 
-<h3 align="left">Recent Project</h3>
+Kafka, Redis, MySQL
 
-<!-- Current Project: Garden of Memories -->
+Cloud & Containerization
 
-<details open>
-<summary><a href="https://www.google.com/search?q=https://github.com/orgs/kibwa-fullstack-web-team1/repositories">🌳 Garden of Memories - AI-Powered Cognitive Health Enhancement Service</a></summary>
-<div markdown="1" style="padding-left: 20px;">
-<p>An MSA-based service that visualizes a user's precious memories into a digital garden and provides a personalized AI experience through a Retrieval-Augmented Generation (RAG) pipeline.</p>
-<ul>
-<li>
-<strong>Architecture Design:</strong>
-<ul>
-<li>Standardized all services based on <strong>Python (FastAPI)</strong> and established an integrated development environment using <strong>Docker Compose</strong>.</li>
-<li>Introduced <strong>Apache Kafka</strong> as a message broker for asynchronous communication between services, reducing system coupling and ensuring scalability.</li>
-<li>Managed the database using <strong>PostgreSQL (Neon DB)</strong> and <strong>SQLAlchemy (ORM)</strong>.</li>
-</ul>
-</li>
-<li>
-<strong>Core Service Development:</strong>
-<ul>
-<li><strong>RAG & Dify Pipeline Construction:</strong> Developed the core logic for the RAG pipeline, which syncs user memory data with the <strong>Dify</strong> knowledge base (<code>dify-data-sync-service</code>) and utilizes Dify workflows to generate personalized 'Today's Questions' (<code>daily-question-service</code>) and AI reward images (<code>reward-service</code>).</li>
-<li><strong>AI-based Reward System (<code>reward-service</code>):</strong> Implemented a feature that processes reward generation requests asynchronously via a <strong>Kafka Consumer</strong>, and generates personalized pixel art images based on user memories by linking Dify workflows with the <strong>DALL-E API</strong>, then stores them in S3.</li>
-<li><strong>Voice Analysis (<code>voice-analysis-service</code>):</strong> Developed a feature that converts user's voice answers to text with the <strong>Whisper API</strong> and calculates a cognitive health score using <strong>librosa</strong> and a machine learning model (<strong>XGBoost</strong>).</li>
-</ul>
-</li>
-<li>
-<strong>Cloud & Infrastructure:</strong>
-<ul>
-<li>Utilized <strong>AWS S3</strong> as storage for image and voice files and implemented a feature to send weekly reports and notifications to guardians via <strong>AWS SES/SNS</strong>.</li>
-<li>Managed the Docker Compose configurations and deployment scripts for the entire MSA environment through a centralized <code>operations</code> service.</li>
-</ul>
-</li>
-</ul>
-</div>
-</details>
+AWS, GCP, Docker, Kubernetes
 
-<!-- Previous Project: Attention -->
+IaC & Automation (DevOps)
 
-<details>
-<summary><b>👁️ Attention: Real-time Concentration Analysis Service via Webcam</b></summary>
-<div markdown="1" style="padding-left: 20px;">
-<p>A project that measured user concentration in real-time and provided analysis reports and AI coaching feedback. The entire codebase was managed in a <a href="https://github.com/AnneMaier/attention-ops">single monorepo</a>.</p>
-<ul>
-<li><strong>Polyglot Backend:</strong> Built an MSA by combining languages and frameworks suited for each purpose, such as <strong>Rust</strong> (for real-time data processing), <strong>Python/FastAPI</strong> (for the report API), and <strong>Node.js/Express</strong> (for client services).</li>
-<li><strong>AI & Data Handling:</strong> Provided personalized coaching feedback by fine-tuning the <strong>EXAONE</strong> model and directly created and managed datasets for training with Python scripts.</li>
-<li><strong>DevOps & Cloud:</strong> Deployed services using <strong>Docker/Kubernetes</strong>, automated CI/CD with <strong>GitHub Actions</strong>, and built the entire infrastructure utilizing <strong>AWS</strong> (EC2, S3, ALB, etc.).</li>
-</ul>
-</div>
-</details>
+Terraform, CI/CD, GitHub Actions, Shell Script
+
+📚 핵심 프로젝트 (Core Projects)
+제출한 이력서 및 포트폴리오의 상세 내용은 아래 프로젝트 링크를 통해 확인하실 수 있습니다.
+
+1. 기억의 정원 (AI 기반 MSA 백엔드 시스템)
+Description: Kafka와 Python/FastAPI 기반의 8개 MSA로 구성된 AI 디지털 돌봄 플랫폼입니다. 팀장으로서 전체 백엔드 시스템과 하이브리드 클라우드(AWS/GCP) 인프라 설계를 총괄했습니다.
+
+Keywords: MSA, Kafka, Python, FastAPI, AI, RAG, Hybrid Cloud, Docker
+
+➡️ [GitHub Organization 바로가기] (https://www.google.com/search?q=https://github.com/kibwa-fullstack-web-team1)
+
+2. Attention (K8s 기반 Polyglot MSA)
+Description: Rust, Python, Node.js를 EC2에 직접 구축한 Self-Hosted Kubernetes 클러스터에 배포한 1인 프로젝트입니다. 멘토의 피드백을 반영하여 서버리스에서 K8s로 아키텍처를 전면 재설계하고, CI/CD를 자동화했습니다.
+
+Keywords: Kubernetes, MSA, Polyglot, Rust, Python, CI/CD, GitHub Actions, On-Premise
+
+➡️ [GitHub Repository 바로가기] (https://www.google.com/search?q=https://github.com/AnneMaier/attention-ops)
+
+3. BookMate (데이터 분석 백엔드)
+Description: 외부 공공 API를 연동하고 asyncio로 성능을 최적화한 Python/FastAPI 기반 데이터 분석 프로젝트입니다. 전체 백엔드 서버 및 핵심 데이터 처리 로직 개발을 전담했습니다.
+
+Keywords: Python, FastAPI, Asyncio, Public API, Pandas, MySQL
+
+➡️ [GitHub Repository 바로가기] (https://www.google.com/search?q=https://github.com/kibwa-fullstack-firstproject-team7/bookmate)
+
+4. E-commerce 인프라 구축 (IaC/CI/CD)
+Description: Terraform과 AWS 네이티브 서비스(CodePipeline, ECS 등)를 활용하여 인프라를 코드로 관리하고 배포를 자동화한 DevOps 프로젝트입니다.
+
+Keywords: DevOps, IaC, Terraform, CI/CD, AWS, ECS
+
+Note: 본 프로젝트는 AWS 교육 과정의 일환으로 진행되어, 현재 레포지토리는 비공개 상태입니다. 상세 내용은 제출된 PDF 포트폴리오를 참조해주시기 바랍니다.
